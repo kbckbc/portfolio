@@ -9,6 +9,6 @@ Several examples using python
 
 ## Raspberry Pi
 Motion detect CCTV using a Raspberry Pi
-* [Goto the Github page](https://youtu.be/7APqgYY63zI)
+* [Final report](https://github.com/kbckbc/portfolio/blob/main/motiontv/final_report_bcgwak.pdf)
 * [Watch the video](https://youtu.be/7APqgYY63zI)\
 ![Watch the video](https://i.ytimg.com/vi/7APqgYY63zI/hqdefault.jpg)
