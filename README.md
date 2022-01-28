@@ -5,7 +5,7 @@
 
 ## Python
 Several examples using python
-* [ggcrawling](https://github.com/kbckbc/ggcrawling) : Google result page crawling
+* [ggcrawling](https://github.com/kbckbc/ggcrawling) : Google search result pages crawling
 
 ## Raspberry Pi
 Motion detect CCTV using a Raspberry Pi
