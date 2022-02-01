@@ -12,7 +12,8 @@
 
 ## Web
 * [Simple board with Flask on Google cloud](https://github.com/kbckbc/chanboard)
-
+** [Go to Githup Page](https://github.com/kbckbc/chanboard)
+** [Visit the page](http://34.125.24.66/login)
 
 ## Python
 Several examples using python
