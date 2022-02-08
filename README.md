@@ -18,6 +18,9 @@ Simple board with Flask on Google cloud
 ## Python
 Several examples using python
 * [ggcrawling](https://github.com/kbckbc/ggcrawling) : Google search result pages crawling
+* [pacman](https://githum.com/kbckbc/pacman) : Applying AI technique on pacman game
+
+![This is an image](http://ai.berkeley.edu/images/pacman_game.gif)
 
 
 ## Embedded
