@@ -16,7 +16,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 ## Web
 Simple board with Flask on Google cloud
   * [Go to the Githup Page](https://github.com/kbckbc/chanboard)
-  * [Visit the Simple board page](http://34.125.24.66/login)
+  * [Visit the Simple board page](http://34.125.24.66)
 
 ## Python
 Several examples using python
