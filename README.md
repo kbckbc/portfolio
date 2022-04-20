@@ -41,5 +41,4 @@ Motion detect CCTV using a Raspberry Pi
 ## VideoGame
 2D Video game made with Unity Engine
 * [Final report]('https://github.com/kbckbc/portfolio/blob/main/videogame/Game_Dev_Final_Presentation.pdf')
-* [Watch the video](https://youtu.be/7APqgYY63zI)\
-![Watch the video](https://i.ytimg.com/vi/7APqgYY63zI/hqdefault.jpg)
+![howto4](https://github.com/kbckbc/portfolio/blob/main/videogame/screenshot.png)
