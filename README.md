@@ -33,10 +33,13 @@ Several examples using python
 
 ## Embedded
 Motion detect CCTV using a Raspberry Pi
+* [Final proposal](https://github.com/kbckbc/portfolio/blob/main/motiontv/final_proposal_bcgwak.pdf)
 * [Final report](https://github.com/kbckbc/portfolio/blob/main/motiontv/final_report_bcgwak.pdf)
 * [Watch the video](https://youtu.be/7APqgYY63zI)\
 ![Watch the video](https://i.ytimg.com/vi/7APqgYY63zI/hqdefault.jpg)
 
 ## VideoGame
 2D Video game made with Unity Engine
-* 
+* [Final report](https://github.com/kbckbc/portfolio/blob/main/videogame/Game Dev Final Presentation)
+* [Watch the video](https://youtu.be/7APqgYY63zI)\
+![Watch the video](https://i.ytimg.com/vi/7APqgYY63zI/hqdefault.jpg)
