@@ -29,7 +29,7 @@ Several examples using python
 
 * [tictactoe](https://kbckbc.github.io/p5-tictactoe/) : Applying Minimax algorithm on tictactoe
 
-![This is an image](https://raw.githubusercontent.com/kbckbc/p5-tictactoe/main/tic.png)
+![This is an image](https://raw.githubusercontent.com/kbckbc/p5-tictactoe/main/tictactoe.png)
 
 ## ComputerSecurity
 + [Bufferoverflow attack](https://github.com/kbckbc/washu_sp22_cse523) : How to attack a linux system using Buffer overflow vulnerabilty
