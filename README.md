@@ -27,6 +27,10 @@ Several examples using python
 
 ![This is an image](http://ai.berkeley.edu/images/pacman_game.gif)
 
+* [tictactoe](https://kbckbc.github.io/p5-tictactoe/) : Applying Minimax algorithm on tictactoe
+
+![This is an image](http://ai.berkeley.edu/images/pacman_game.gif)
+
 ## ComputerSecurity
 + [Bufferoverflow attack](https://github.com/kbckbc/washu_sp22_cse523) : How to attack a linux system using Buffer overflow vulnerabilty
 + Presentation about SQL Injection
