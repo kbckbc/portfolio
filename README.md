@@ -27,7 +27,12 @@ Several examples using python
 
 ![This is an image](http://ai.berkeley.edu/images/pacman_game.gif)
 
-* [tictactoe](https://kbckbc.github.io/p5-tictactoe/) : Applying Minimax algorithm on tictactoe
+* [tictactoe](https://github.com/kbckbc/p5-tictactoe) : Applying Minimax algorithm on tictactoe
+* [tictactoe](https://kbckbc.github.io/p5-tictactoe/) : Goto Github page
+* * [tictactoe](https://kbckbc.github.io/p5-tictactoe/) : Goto Play page
+
+
+
 
 ![This is an image](https://raw.githubusercontent.com/kbckbc/p5-tictactoe/main/tictactoe.png)
 
