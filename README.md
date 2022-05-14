@@ -7,6 +7,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 * [Thesis](#Thesis)
 * [Web](#Web)
 * [Python](#Python)
+* [P5js] (#P5js)
 * [Computer Security](#ComputerSecurity)
 * [Embedded](#Embedded)
 * [Video Game](#VideoGame)
@@ -32,9 +33,13 @@ Several examples using python
   * [Goto Play page](https://kbckbc.github.io/p5-tictactoe/)
 
 
+## P5js
+Several examples using p5js javascript
+* [Go to play Flappy Circle](https://editor.p5js.org/bychan/full/7-y7-Pa04)
+* [Go to play Snake](https://editor.p5js.org/bychan/full/eHzgPkmiR)
+* [Go to play AI Tic-tac-toe](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
+* [Go to watch clock](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
 
-
-![This is an image](https://raw.githubusercontent.com/kbckbc/p5-tictactoe/main/tictactoe.png)
 
 ## ComputerSecurity
 + [Bufferoverflow attack](https://github.com/kbckbc/washu_sp22_cse523) : How to attack a linux system using Buffer overflow vulnerabilty
