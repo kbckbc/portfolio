@@ -7,7 +7,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 * [Thesis](#Thesis)
 * [Web](#Web)
 * [Python](#Python)
-* [P5js](#P5js)
+* [Javascript](#Javascript)
 * [Computer Security](#ComputerSecurity)
 * [Embedded](#Embedded)
 * [Video Game](#VideoGame)
@@ -33,7 +33,7 @@ Several examples using python
   * [Goto Play page](https://kbckbc.github.io/p5-tictactoe/)
 
 
-## P5js
+## Javascript
 Several examples using p5js javascript
 * [Go to play Squirrel Math](https://editor.p5js.org/bychan/full/loyq-8fKl)
 * [Go to play USA State Challenge](https://editor.p5js.org/bychan/full/1yKpG_1MW)
