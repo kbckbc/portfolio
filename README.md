@@ -35,6 +35,8 @@ Several examples using python
 
 ## P5js
 Several examples using p5js javascript
+* [Go to play Squirrel Math](https://editor.p5js.org/bychan/full/loyq-8fKl)
+* [Go to play USA State Challenge](https://editor.p5js.org/bychan/full/1yKpG_1MW)
 * [Go to play Flappy Circle](https://editor.p5js.org/bychan/full/7-y7-Pa04)
 * [Go to play Snake](https://editor.p5js.org/bychan/full/eHzgPkmiR)
 * [Go to play AI Tic-tac-toe](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
