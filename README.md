@@ -1,7 +1,10 @@
+## What is this about?
+I'm gathering my project page(including class assignments) to record my work while I'm studying at WashU.
+
 ## Who am I?
 I'm studying at WashU, but half a year ago I was working as a software engineer at Korea Securities Depository (KSD) in Korea more than 13 years. 
 I have experience in developing systems with many users, cooperative development for large-scale systems, and finally, I have a sense of challenge.
-It has been a long time dream of me to work in the US, and I am challenging the process. I’m still working on finding the dots as in Steve Jobs' speech. Thanks for reading.
+It has been a long time dream of me to work in the US, and I am challenging the process. I’m still working on finding the dots as in Steve Jobs' speech.
 
 ## Table of contents
 * [Thesis](#Thesis)
