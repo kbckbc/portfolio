@@ -17,6 +17,10 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 
 ## Web
+NextBrain - An educational website for kids I'm building
+  * [Visit the NextBrain](https://nextbrain.herokuapp.com/)
+
+
 Simple board with Flask on Google cloud
   * [Go to the Githup Page](https://github.com/kbckbc/chanboard)
   * [Visit the Simple board page](http://34.125.24.66)
