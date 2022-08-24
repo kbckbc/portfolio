@@ -1,5 +1,5 @@
 ## What is this about?
-I'm gathering my project page(including class assignments) to record my work while I'm studying at WashU.
+I'm updating my projects page(including class assignments) to record my work while I'm studying at WashU.
 
 ## Who am I?
 I'm studying at WashU, but half a year ago I was working as a software engineer at Korea Securities Depository (KSD) in Korea more than 13 years. 
