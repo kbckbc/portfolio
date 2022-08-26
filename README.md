@@ -2,7 +2,7 @@
 I'm updating my projects page(including class assignments) to record my work while I'm studying at WashU.
 
 ## Who am I?
-I'm studying at WashU, but half a year ago I was working as a software engineer at Korea Securities Depository (KSD) in Korea more than 13 years. (I mainly used Java, SQL, and C# to create Windows applications.If you want to see my resume, click [**here**](https://github.com/kbckbc/portfolio/blob/main/resume_bcgwak.pdf))
+I'm studying at WashU, but half a year ago I was working as a software engineer at Korea Securities Depository (KSD) in Korea more than 13 years. (If you are interested in my resume, click [**here**](https://github.com/kbckbc/portfolio/blob/main/resume_bcgwak.pdf))
 I have experience in developing systems with many users, cooperative development for large-scale systems, and finally, I have a sense of challenge.
 It has been a long time dream of me to work in the US, and I am challenging the process. I’m still working on finding the dots as in Steve Jobs' speech.
 
