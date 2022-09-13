@@ -20,12 +20,20 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 
 ## Web
-NextBrain - An educational website for kids I'm building
+* NextBrain - An educational website for kids I'm building
+  * [Go to Github](https://github.com/kbckbc/nextbrain)
   * [Visit the NextBrain](https://nextbrain.herokuapp.com/)
 
+* PHP File Sharing - Simple File sharing server by PHP
+  * [Go to Github](https://github.com/cse330-fall-2022/module2-group-module2-501026)
+  * [Visit the File server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m2g/login.php)
 
-Simple board with Flask on Google cloud
-  * [Go to the Githup Page](https://github.com/kbckbc/chanboard)
+* PHP Calculator
+  * [Go to Github](https://github.com/cse330-fall-2022/module2-individual-kbckbc)
+  * [Visit the Calculator](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m2/cal.php)
+
+* Simple board with Flask on Google cloud
+  * [Go to Githup](https://github.com/kbckbc/chanboard)
   * [Visit the Simple board page](http://34.125.24.66)
 
 ## Python
