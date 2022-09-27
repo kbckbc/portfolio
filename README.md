@@ -20,6 +20,9 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 
 ## Web
+* My AWS - My Amazon web server
+  * [Go to my AWS](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/)
+
 * NextBrain - An educational website for kids I'm building
   * [Go to Github](https://github.com/kbckbc/nextbrain)
   * [Visit the NextBrain](https://nextbrain.herokuapp.com/)
