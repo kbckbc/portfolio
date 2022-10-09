@@ -9,6 +9,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 ## Table of contents
 * [Thesis](#Thesis)
 * [Web](#Web)
+* [Data Mining](#DataMining)
 * [Python](#Python)
 * [Javascript](#Javascript)
 * [Computer Security](#ComputerSecurity)
@@ -42,6 +43,11 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 * Simple board with Flask on Google cloud
   * [Go to Githup](https://github.com/kbckbc/chanboard)
   * [Visit the Simple board page](http://34.125.24.66)
+
+## DataMining
+* Linear Regression  - Uni and Multi Linear Regression by python
+  * [Go to Github](https://github.com/kbckbc/washu_fl22_cse514/tree/main)
+  
 
 ## Python
 Several examples using python
