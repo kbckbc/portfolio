@@ -1,5 +1,5 @@
 ## What is this about?
-I'm updating my projects page(including class assignments) to record my work while I'm studying at WashU.
+I'm updating this page(including class assignments) to record my work while I'm studying at WashU.
 
 ## Who am I?
 I'm studying at WashU, but half a year ago I was working as a software engineer at Korea Securities Depository (KSD) in Korea more than 13 years. (If you are interested in my resume, click [**here**](https://github.com/kbckbc/portfolio/blob/main/resume_bcgwak.pdf))
@@ -28,17 +28,21 @@ It has been a long time dream of me to work in the US, and I am challenging the 
   * [Go to Github](https://github.com/kbckbc/nextbrain)
   * [Visit the NextBrain](https://nextbrain.herokuapp.com/)
 
-* Ajax Calendar - Simple calendar using Ajax
+* Cool Multi Chat - Multi user chat application using Nodejs
+  * [Go to Github](https://github.com/cse330-fall-2022/module6-group-module6-501026)
+  * You can run the nodejs to test
+
+* Cool Calendar - Simple calendar using Ajax
   * [Go to Github](https://github.com/cse330-fall-2022/module5-group-module5-501026)
-  * [Visit the File server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m5g)
+  * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m5g)
 
 * PHP News Archive - Simple news archive site by PHP
   * [Go to Github](https://github.com/cse330-fall-2022/module3-group-module3-501026)
-  * [Visit the File server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m3g/list.php)
+  * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m3g/list.php)
 
 * PHP File Sharing - Simple File sharing server by PHP
   * [Go to Github](https://github.com/cse330-fall-2022/module2-group-module2-501026)
-  * [Visit the File server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m2g/login.php)
+  * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m2g/login.php)
 
 * PHP Calculator
   * [Go to Github](https://github.com/cse330-fall-2022/module2-individual-kbckbc)
