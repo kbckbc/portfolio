@@ -55,7 +55,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 ## DataMining
 
 * Linear Regression - Uni and Multi Linear Regression by python
-  * ![pic](https://github.com/kbckbc/washu_fl22_cse514/blob/main/linear_regression/concrete.png)
+  * ![pic](https://github.com/kbckbc/washu_fl22_cse514/blob/main/linear_regression/cement.png)
   * [Go to Github](https://github.com/kbckbc/washu_fl22_cse514)
   
 * Classification - Testing several models on classification
