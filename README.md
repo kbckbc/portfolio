@@ -9,9 +9,9 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 ## Table of contents
 * [Thesis](#Thesis)
 * [Web](#Web)
+* [Javascript](#Javascript)
 * [Data Mining](#DataMining)
 * [Python](#Python)
-* [Javascript](#Javascript)
 * [Computer Security](#ComputerSecurity)
 * [Embedded](#Embedded)
 * [Video Game](#VideoGame)
@@ -56,6 +56,17 @@ It has been a long time dream of me to work in the US, and I am challenging the 
   * [Go to Githup](https://github.com/kbckbc/chanboard)
   * [Visit the Simple board page](http://34.125.24.66)
 
+
+## Javascript
+Several examples using p5js javascript
+* [Go to play Squirrel Math](https://editor.p5js.org/bychan/full/loyq-8fKl)
+* [Go to play USA State Challenge](https://editor.p5js.org/bychan/full/1yKpG_1MW)
+* [Go to play Flappy Circle](https://editor.p5js.org/bychan/full/7-y7-Pa04)
+* [Go to play Snake](https://editor.p5js.org/bychan/full/eHzgPkmiR)
+* [Go to play AI Tic-tac-toe](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
+* [Go to watch clock](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
+
+
 ## DataMining
 
 * Linear Regression - Uni and Multi Linear Regression by python
@@ -78,16 +89,6 @@ Several examples using python
 * Tic-Tac-Toe : Implementing Tic-Tac-Toe using Minimax algorithm
   * [Goto Github page](https://github.com/kbckbc/p5-tictactoe)
   * [Goto Play page](https://kbckbc.github.io/p5-tictactoe/)
-
-
-## Javascript
-Several examples using p5js javascript
-* [Go to play Squirrel Math](https://editor.p5js.org/bychan/full/loyq-8fKl)
-* [Go to play USA State Challenge](https://editor.p5js.org/bychan/full/1yKpG_1MW)
-* [Go to play Flappy Circle](https://editor.p5js.org/bychan/full/7-y7-Pa04)
-* [Go to play Snake](https://editor.p5js.org/bychan/full/eHzgPkmiR)
-* [Go to play AI Tic-tac-toe](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
-* [Go to watch clock](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
 
 
 ## ComputerSecurity
