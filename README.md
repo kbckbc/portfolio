@@ -126,14 +126,14 @@ Learning nonlinear algorithm and 2 course projects
 * [Go to the ppt page](https://docs.google.com/presentation/d/1F4Viod5f05d2L-kMOtLZaNofi_idVYp8Z7SCFImg1bE/edit#slide=id.p)
 * [Go to the report](https://github.com/kbckbc/washu_sp23_cse543/blob/main/project/mmvp.pdf)
 
-![This is an image](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/des.png)
+![This is an image](https://github.com/kbckbc/washu_sp23_cse543/blob/main/mmvp.png)
+
 
 
 ## DesignCircuit
-Design cirsuit using Cadence
+Design a circuit using Cadence
 * [Final project instruction](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/Final%20Project%20-%20Simplified%20DES%20algorithm%20CMOS%20chip%20design%20specifications.pdf)
 * [Final project report](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign4.pdf)
 
-![This is an image](https://github.com/kbckbc/washu_sp23_cse543/blob/main/mmvp.png)
-
+![This is an image](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/des.png)
 
