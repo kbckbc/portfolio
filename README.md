@@ -119,12 +119,14 @@ Motion detect CCTV using a Raspberry Pi
 
 ## NonlinearAlgorithm
 Learning nonlinear algorithm and 2 course projects
-* [Team presentation's instruction](https://github.com/kbckbc/washu_sp23_cse543/blob/main/presentation/Course-info.pdf)
-* [Go to the ppt page](https://docs.google.com/presentation/d/1X3dzar8Tk8FtQw1pUdG8FY95LoWRm2gF4Med7SjaWKM/edit#slide=id.p)
+* Team presentation about MVU(Maximum variance unfolding)
+  * [Team presentation's instruction](https://github.com/kbckbc/washu_sp23_cse543/blob/main/presentation/Course-info.pdf)
+  * [Go to the ppt page](https://docs.google.com/presentation/d/1X3dzar8Tk8FtQw1pUdG8FY95LoWRm2gF4Med7SjaWKM/edit#slide=id.p)
 
-* [Course project instruction](https://github.com/kbckbc/washu_sp23_cse543/blob/main/presentation/Course-info.pdf)
-* [Go to the ppt page](https://docs.google.com/presentation/d/1F4Viod5f05d2L-kMOtLZaNofi_idVYp8Z7SCFImg1bE/edit#slide=id.p)
-* [Go to the report](https://github.com/kbckbc/washu_sp23_cse543/blob/main/project/mmvp.pdf)
+* Final project about MMVP(Modified Minimum Variance Portfolio)
+  * [Course project instruction](https://github.com/kbckbc/washu_sp23_cse543/blob/main/presentation/Course-info.pdf)
+  * [Go to the ppt page](https://docs.google.com/presentation/d/1F4Viod5f05d2L-kMOtLZaNofi_idVYp8Z7SCFImg1bE/edit#slide=id.p)
+  * [Go to the report](https://github.com/kbckbc/washu_sp23_cse543/blob/main/project/mmvp.pdf)
 
 ![This is an image](https://github.com/kbckbc/washu_sp23_cse543/blob/main/mmvp.png)
 
