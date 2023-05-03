@@ -15,6 +15,8 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 * [Computer Security](#ComputerSecurity)
 * [Embedded](#Embedded)
 * [Video Game](#VideoGame)
+* [Nonlinear algorithm](#NonlinearAlgorithm)
+* [Design Circuit](#DesignCircuit)
 
 ## Thesis
 * [A thesis on TNS](https://kbckbc.github.io/tns/) : Time-Sensitive Networking – Deterministic Network
@@ -112,3 +114,24 @@ Motion detect CCTV using a Raspberry Pi
 * [Go to the play page](https://byeongchan.itch.io/vg1-teddyteamfinal-0420)
 
 ![This is an image](https://github.com/kbckbc/portfolio/blob/main/videogame/screenshot.png)
+
+
+
+## NonlinearAlgorithm
+Learning nonlinear algorithm and 2 course projects
+* [Team presentation's instruction](https://github.com/kbckbc/washu_sp23_cse543/blob/main/presentation/Course-info.pdf)
+* [Go to the ppt page](https://docs.google.com/presentation/d/1X3dzar8Tk8FtQw1pUdG8FY95LoWRm2gF4Med7SjaWKM/edit#slide=id.p)
+
+* [Course project instruction](https://github.com/kbckbc/washu_sp23_cse543/blob/main/presentation/Course-info.pdf)
+* [Go to the ppt page](https://docs.google.com/presentation/d/1F4Viod5f05d2L-kMOtLZaNofi_idVYp8Z7SCFImg1bE/edit#slide=id.p)
+* [Go to the report](https://github.com/kbckbc/washu_sp23_cse543/blob/main/project/mmvp.pdf)
+
+
+## DesignCircuit
+Design cirsuit using Cadence
+* [Final project instruction](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/Final%20Project%20-%20Simplified%20DES%20algorithm%20CMOS%20chip%20design%20specifications.pdf)
+* [Final project report](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign4.pdf)
+
+![This is an image](https://github.com/kbckbc/portfolio/blob/main/videogame/screenshot.png)
+
+
