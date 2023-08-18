@@ -7,7 +7,7 @@ I have experiences in developing systems with many users, cooperative developmen
 It has been a long time dream of me to work in the US, and I am challenging the process. I’m still working on 'Finding the dots' as in Steve Jobs' speech.
 
 ## Table of contents
-* [Thesis](#Thesis)
+* [Thesis](#thesis)
 * [Web](#Web)
 * [Javascript](#Javascript)
 * [Data Mining](#DataMining)
