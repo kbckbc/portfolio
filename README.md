@@ -12,13 +12,13 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 * [Thesis](#thesis)
 * [Web](#web)
 * [Javascript](#javascript)
-* [Data Mining](#dataMining)
+* [Data Mining](#datamining)
 * [Python](#python)
-* [Computer Security](#computerSecurity)
+* [Computer Security](#computersecurity)
 * [Embedded](#embedded)
-* [Video Game](#videoGame)
-* [Nonlinear algorithm](#nonlinearAlgorithm)
-* [Design Circuit](#designCircuit)
+* [Video Game](#videogame)
+* [Nonlinear algorithm](#nonlinearalgorithm)
+* [Design Circuit](#designcircuit)
 
 ## Thesis 
 [(top)](#table-of-contents)
