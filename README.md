@@ -19,11 +19,12 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 * [Design Circuit](#designCircuit)
 
 ## Thesis 
-[(top)](#table-of-contents)
+* [top](#table-of-contents)
 * [A thesis on TNS](https://kbckbc.github.io/tns/) : Time-Sensitive Networking – Deterministic Network
 
 
 ## Web
+* [top](#table-of-contents)
 * My AWS - My Amazon web server
   * [Go to my AWS](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/)
 
@@ -61,37 +62,38 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 
 ## Javascript
-Several examples using p5js javascript
-* [Go to play Squirrel Math](https://editor.p5js.org/bychan/full/loyq-8fKl)
-* [Go to play USA State Challenge](https://editor.p5js.org/bychan/full/1yKpG_1MW)
-* [Go to play Flappy Circle](https://editor.p5js.org/bychan/full/7-y7-Pa04)
-* [Go to play Snake](https://editor.p5js.org/bychan/full/eHzgPkmiR)
-* [Go to play AI Tic-tac-toe](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
-* [Go to watch clock](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
-
-
-## DataMining
-
-* Linear Regression - Uni and Multi Linear Regression by python
-  * ![pic](https://github.com/kbckbc/washu_fl22_cse514/blob/main/linear_regression/cement.png)
-  * [Go to Github](https://github.com/kbckbc/washu_fl22_cse514)
-  
-* Classification - Testing several models on classification
-  * ![pic](https://github.com/kbckbc/washu_fl22_cse514/blob/main/train_model/knn.png)
-  * [Go to Github](https://github.com/kbckbc/washu_fl22_cse514)
-
-
-
-## Python
-Several examples using python
-* [ggcrawling](https://github.com/kbckbc/ggcrawling) : Google search result pages crawling
-* [pacman](https://github.com/kbckbc/pacmanshow) : Applying AI technique on pacman game
-
-![This is an image](http://ai.berkeley.edu/images/pacman_game.gif)
+* [top](#table-of-contents)
+* Several examples using p5js javascript
+  * [Go to play Squirrel Math](https://editor.p5js.org/bychan/full/loyq-8fKl)
+  * [Go to play USA State Challenge](https://editor.p5js.org/bychan/full/1yKpG_1MW)
+  * [Go to play Flappy Circle](https://editor.p5js.org/bychan/full/7-y7-Pa04)
+  * [Go to play Snake](https://editor.p5js.org/bychan/full/eHzgPkmiR)
+  * [Go to play AI Tic-tac-toe](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
+  * [Go to watch clock](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
 
 * Tic-Tac-Toe : Implementing Tic-Tac-Toe using Minimax algorithm
   * [Goto Github page](https://github.com/kbckbc/p5-tictactoe)
   * [Goto Play page](https://kbckbc.github.io/p5-tictactoe/)
+
+## DataMining
+* [top](#table-of-contents)
+* Linear Regression - Uni and Multi Linear Regression by python
+  * [Go to Github](https://github.com/kbckbc/washu_fl22_cse514)
+  * ![pic](https://github.com/kbckbc/washu_fl22_cse514/blob/main/linear_regression/cement.png)
+    
+* Classification - Testing several models on classification
+  * [Go to Github](https://github.com/kbckbc/washu_fl22_cse514)
+  * ![pic](https://github.com/kbckbc/washu_fl22_cse514/blob/main/train_model/knn.png)
+  
+
+## Python
+* [top](#table-of-contents)
+* Several examples using python
+  * [ggcrawling](https://github.com/kbckbc/ggcrawling) : Google search result pages crawling
+  * [pacman](https://github.com/kbckbc/pacmanshow) : Applying AI technique on pacman game
+
+![This is an image](http://ai.berkeley.edu/images/pacman_game.gif)
+
 
 
 ## ComputerSecurity
