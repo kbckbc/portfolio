@@ -8,15 +8,15 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 ## Table of contents
 * [Thesis](#thesis)
-* [Web](#Web)
-* [Javascript](#Javascript)
-* [Data Mining](#DataMining)
-* [Python](#Python)
-* [Computer Security](#ComputerSecurity)
-* [Embedded](#Embedded)
-* [Video Game](#VideoGame)
-* [Nonlinear algorithm](#NonlinearAlgorithm)
-* [Design Circuit](#DesignCircuit)
+* [Web](#web)
+* [Javascript](#javascript)
+* [Data Mining](#dataMining)
+* [Python](#python)
+* [Computer Security](#computerSecurity)
+* [Embedded](#embedded)
+* [Video Game](#videoGame)
+* [Nonlinear algorithm](#nonlinearAlgorithm)
+* [Design Circuit](#designCircuit)
 
 ## Thesis
 * [A thesis on TNS](https://kbckbc.github.io/tns/) : Time-Sensitive Networking – Deterministic Network
