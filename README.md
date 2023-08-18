@@ -2,7 +2,8 @@
 I'm updating this page(including class assignments) to record my work while I'm studying at WashU.
 
 ## Who am I?
-I'm studying at WashU, but half a year ago I was working as a software engineer at Korea Securities Depository (KSD) in Korea more than 13 years. (If you are interested in my resume, click [**here**](https://github.com/kbckbc/portfolio/blob/main/resume_bcgwak.pdf))
+Current: I'm back at KSD in Korea as a software engineer.
+Aug 2021 ~ July 2023: I'm studying at WashU, but half a year ago I was working as a software engineer at Korea Securities Depository (KSD) in Korea more than 13 years. (If you are interested in my resume, click [**here**](https://github.com/kbckbc/portfolio/blob/main/resume_bcgwak.pdf))
 I have experiences in developing systems with many users, cooperative development for large-scale systems, and finally, I have a sense of challenge.
 It has been a long time dream of me to work in the US, and I am challenging the process. I’m still working on 'Finding the dots' as in Steve Jobs' speech.
 
@@ -64,16 +65,12 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 ## Javascript
 * [top](#table-of-contents)
 * Several examples using p5js javascript
-  * [Go to play Squirrel Math](https://editor.p5js.org/bychan/full/loyq-8fKl)
-  * [Go to play USA State Challenge](https://editor.p5js.org/bychan/full/1yKpG_1MW)
-  * [Go to play Flappy Circle](https://editor.p5js.org/bychan/full/7-y7-Pa04)
-  * [Go to play Snake](https://editor.p5js.org/bychan/full/eHzgPkmiR)
-  * [Go to play AI Tic-tac-toe](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
-  * [Go to watch clock](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
-
-* Tic-Tac-Toe : Implementing Tic-Tac-Toe using Minimax algorithm
-  * [Goto Github page](https://github.com/kbckbc/p5-tictactoe)
-  * [Goto Play page](https://kbckbc.github.io/p5-tictactoe/)
+  * Squirrel Math [src](https://editor.p5js.org/bychan/sketches/loyq-8fKl) [play](https://editor.p5js.org/bychan/full/loyq-8fKl)
+  * USA State Challenge [src](https://editor.p5js.org/bychan/sketches/1yKpG_1MW) [play](https://editor.p5js.org/bychan/full/1yKpG_1MW)
+  * Flappy Circle [src](https://editor.p5js.org/bychan/sketches/7-y7-Pa04) [play](https://editor.p5js.org/bychan/full/7-y7-Pa04)
+  * Snake [src](https://editor.p5js.org/bychan/sketches/eHzgPkmiR) [play](https://editor.p5js.org/bychan/full/eHzgPkmiR)
+  * Tic-tac-toe [src](https://editor.p5js.org/bychan/sketches/WyP2_ZfEm) [play](https://editor.p5js.org/bychan/full/WyP2_ZfEm)
+  * Simple clock [src](https://editor.p5js.org/bychan/sketches/FL7Cn26Sh) [play](https://editor.p5js.org/bychan/full/FL7Cn26Sh)
 
 ## DataMining
 * [top](#table-of-contents)
