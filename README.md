@@ -27,8 +27,6 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 ## Web
 [(top)](#table-of-contents)
-* My AWS - My Amazon web server
-  * [Go to my AWS](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/)
 
 * Bear Market - A second-hand market for students
   * [Go to Github](https://github.com/cse330-fall-2022/creativeproject-module7-501026)
@@ -36,11 +34,11 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 * NextBrain - An educational website for kids I'm building
   * [Go to Github](https://github.com/kbckbc/nextbrain)
-  * [Visit the NextBrain](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com:3459/)
+  * [Visit the NextBrain](https://nextbrain.fly.dev/game/nuguri/)
 
 * Cool Multi Chat - Multi user chat application using Nodejs
   * [Go to Github](https://github.com/cse330-fall-2022/module6-group-module6-501026)
-  * [Visit the Multichat](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com:3457/)
+  * [Visit the Multichat](https://multi-chat.fly.dev/)
 
 * Cool Calendar - Simple calendar using Ajax
   * [Go to Github](https://github.com/cse330-fall-2022/module5-group-module5-501026)
