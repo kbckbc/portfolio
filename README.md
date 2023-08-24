@@ -28,6 +28,8 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 ## Web
 [(top)](#table-of-contents)
 
+> Currently, I'm working on moving a host server, so some pages are not working properly.
+
 * Bear Market - A second-hand market for students
   * [Go to Github](https://github.com/cse330-fall-2022/creativeproject-module7-501026)
   * [Visit the Bearmarket](https://bearmarket-front.fly.dev/)
