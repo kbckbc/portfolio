@@ -40,7 +40,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 * Cool Multi Chat - Multi user chat application using Nodejs
   * [Go to Github](https://github.com/cse330-fall-2022/module6-group-module6-501026)
-  * [Visit the Multichat](https://multi-chat.fly.dev/)
+  * [Visit the Multichat](https://bcgwak-coolchat.fly.dev/)
 
 * Cool Calendar - Simple calendar using Ajax
   * [Go to Github](https://github.com/cse330-fall-2022/module5-group-module5-501026)
