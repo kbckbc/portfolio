@@ -52,7 +52,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 * PHP File Sharing - Simple File sharing server by PHP
   * [Go to Github](https://github.com/kbckbc/php-fileshare)
-  * [Visit the server](http://bcgwak.godohosting.com/php-fileshare/login.php)
+  * [Visit the Fileshare](http://bcgwak.godohosting.com/php-fileshare/login.php)
 
 * PHP Calculator
   * [Go to Github](https://github.com/kbckbc/php-calculator)
