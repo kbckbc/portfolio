@@ -51,14 +51,12 @@ It has been a long time dream of me to work in the US, and I am challenging the 
   * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m3g/list.php)
 
 * PHP File Sharing - Simple File sharing server by PHP
-  * [Go to Github](https://github.com/cse330-fall-2022/module2-group-module2-501026)
-  * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m2g/login.php)
+  * [Go to Github](https://github.com/kbckbc/php-fileshare)
+  * [Visit the server](http://bcgwak.godohosting.com/php-fileshare/login.php)
 
 * PHP Calculator
   * [Go to Github](https://github.com/kbckbc/php-calculator)
   * [Visit the Calculator](http://bcgwak.godohosting.com/php-calculator/cal.php)
-
-
 
 * Simple board with Flask on Google cloud
   * [Go to Githup](https://github.com/kbckbc/chanboard)
