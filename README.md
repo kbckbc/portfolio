@@ -47,8 +47,8 @@ It has been a long time dream of me to work in the US, and I am challenging the 
   * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m5g)
 
 * PHP News Archive - Simple news archive site by PHP
-  * [Go to Github](https://github.com/cse330-fall-2022/module3-group-module3-501026)
-  * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m3g/list.php)
+  * [Go to Github](https://github.com/kbckbc/php-news)
+  * [Visit the server](http://bcgwak.godohosting.com/php-news/list.php)
 
 * PHP File Sharing - Simple File sharing server by PHP
   * [Go to Github](https://github.com/kbckbc/php-fileshare)
