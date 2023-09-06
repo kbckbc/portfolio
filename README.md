@@ -33,7 +33,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 * NextBrain - An educational website for kids I'm building [git](https://github.com/kbckbc/nextbrain) [visit](https://nextbrain.fly.dev/game/nuguri/)
 * Bear Market - A second-hand market for students [git](https://github.com/cse330-fall-2022/creativeproject-module7-501026) [visit](https://bearmarket-front.fly.dev/)
 * Cool Multi Chat - Multi user chat application using Nodejs [git](https://github.com/kbckbc/js-coolchat) [visit](https://bcgwak-coolchat.fly.dev/)
-* Cool Calendar - Simple calendar using Ajax [git](https://github.com/kbckbc/php-calendar) [visit](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m5g)
+* Cool Calendar - Simple calendar using Ajax [git](https://github.com/kbckbc/php-calendar) [visit](http://bcgwak.godohosting.com/php-calendar/cal.html)
 * PHP News Archive [git](https://github.com/kbckbc/php-news) [visit](http://bcgwak.godohosting.com/php-news/list.php)
 * PHP File Sharing [git](https://github.com/kbckbc/php-fileshare) [visit](http://bcgwak.godohosting.com/php-fileshare/login.php)
 * PHP Calculator [git](https://github.com/kbckbc/php-calculator) [visit](http://bcgwak.godohosting.com/php-calculator/cal.php)
