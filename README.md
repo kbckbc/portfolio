@@ -30,37 +30,14 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 
 > Currently, I'm working on moving a host server, so some pages are not working properly.
 
-* NextBrain - An educational website for kids I'm building
-  * [Go to Github](https://github.com/kbckbc/nextbrain)
-  * [Visit the NextBrain](https://nextbrain.fly.dev/game/nuguri/)
-
-* Bear Market - A second-hand market for students
-  * [Go to Github](https://github.com/cse330-fall-2022/creativeproject-module7-501026)
-  * [Visit the Bearmarket](https://bearmarket-front.fly.dev/)
-
-* Cool Multi Chat - Multi user chat application using Nodejs
-  * [Go to Github](https://github.com/cse330-fall-2022/module6-group-module6-501026)
-  * [Visit the Multichat](https://bcgwak-coolchat.fly.dev/)
-
-* Cool Calendar - Simple calendar using Ajax
-  * [Go to Github](https://github.com/cse330-fall-2022/module5-group-module5-501026)
-  * [Visit the server](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m5g)
-
-* PHP News Archive - Simple news archive site by PHP
-  * [Go to Github](https://github.com/kbckbc/php-news)
-  * [Visit the server](http://bcgwak.godohosting.com/php-news/list.php)
-
-* PHP File Sharing - Simple File sharing server by PHP
-  * [Go to Github](https://github.com/kbckbc/php-fileshare)
-  * [Visit the Fileshare](http://bcgwak.godohosting.com/php-fileshare/login.php)
-
-* PHP Calculator
-  * [Go to Github](https://github.com/kbckbc/php-calculator)
-  * [Visit the Calculator](http://bcgwak.godohosting.com/php-calculator/cal.php)
-
-* Simple board with Flask on Google cloud
-  * [Go to Githup](https://github.com/kbckbc/chanboard)
-  * [Visit the Simple board page](http://34.125.24.66)
+* NextBrain - An educational website for kids I'm building [git](https://github.com/kbckbc/nextbrain) [visit](https://nextbrain.fly.dev/game/nuguri/)
+* Bear Market - A second-hand market for students [git](https://github.com/cse330-fall-2022/creativeproject-module7-501026) [visit](https://bearmarket-front.fly.dev/)
+* Cool Multi Chat - Multi user chat application using Nodejs [git](https://github.com/cse330-fall-2022/module6-group-module6-501026) [visit](https://bcgwak-coolchat.fly.dev/)
+* Cool Calendar - Simple calendar using Ajax [git](https://github.com/cse330-fall-2022/module5-group-module5-501026) [visit](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m5g)
+* PHP News Archive [git](https://github.com/kbckbc/php-news) [visit](http://bcgwak.godohosting.com/php-news/list.php)
+* PHP File Sharing [git](https://github.com/kbckbc/php-fileshare) [visit](http://bcgwak.godohosting.com/php-fileshare/login.php)
+* PHP Calculator [git](https://github.com/kbckbc/php-calculator) [visit](http://bcgwak.godohosting.com/php-calculator/cal.php)
+* Simple board with Flask on Google cloud [git](https://github.com/kbckbc/chanboard) [visit](http://34.125.24.66)
 
 
 ## Javascript
