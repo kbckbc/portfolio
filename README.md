@@ -31,7 +31,7 @@ It has been a long time dream of me to work in the US, and I am challenging the 
 > Currently, I'm working on moving a host server, so some pages are not working properly.
 
 * NextBrain - An educational website for kids I'm building [git](https://github.com/kbckbc/nextbrain) [visit](https://nextbrain.fly.dev/game/nuguri/)
-* Bear Market - A second-hand market for students [git](https://github.com/kbckbc/js-bearmarket) [visit](https://bcgwak-bearmarket.fly.dev/)
+* Bear Market - A second-hand market for students [git](https://github.com/kbckbc/js-bearmarket) [visit](https://bcgwak-market.fly.dev/)
 * Cool Multi Chat - Multi user chat application using Nodejs [git](https://github.com/kbckbc/js-coolchat) [visit](https://bcgwak-coolchat.fly.dev/)
 * Cool Calendar - Simple calendar using Ajax [git](https://github.com/kbckbc/php-calendar) [visit](http://bcgwak.godohosting.com/php-calendar/cal.html)
 * PHP News Archive [git](https://github.com/kbckbc/php-news) [visit](http://bcgwak.godohosting.com/php-news/list.php)
